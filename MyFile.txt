@@ -1,1 +1,2 @@
 My First Test Of Git and this last for the changes.
+This is from GIT
